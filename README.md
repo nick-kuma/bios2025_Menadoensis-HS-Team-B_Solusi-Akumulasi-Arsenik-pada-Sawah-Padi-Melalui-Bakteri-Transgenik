@@ -7,7 +7,7 @@ Aplikasi berbasis Tkinter Python untuk menampilkan riset biologi.
 - Pillow
 
 ## Cara Menjalankan dengan File .exe
-1. Unduh file .exe dari bagian Releases di Github.
+1. Unduh file dan ekstrak file .zip dari bagian Releases di Github.
 2. Pastikan semua berkas berada dalam satu folder:
    - bios2025.exe
    - pages
