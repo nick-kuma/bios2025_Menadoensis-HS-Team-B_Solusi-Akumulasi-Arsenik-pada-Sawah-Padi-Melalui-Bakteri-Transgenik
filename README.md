@@ -6,7 +6,7 @@ Aplikasi berbasis Tkinter Python untuk menampilkan riset biologi.
 - Python 3.10+
 - Pillow
 
-## Cara menjalankan
+## Cara Menjalankan
 1. Pastikan sudah menginstal Python 3.10+ dan Pillow.  
    Jika belum punya Python, unduh dari https://www.python.org/downloads
    
@@ -16,9 +16,13 @@ Aplikasi berbasis Tkinter Python untuk menampilkan riset biologi.
     - diagram.png
     - peta.jpg
 
-3. Jalankan perintah berikut pada Command Prompt:
+3. Jalankan perintah berikut pada Command Prompt untuk menginstal Pillow
 ```
-pip install -r requirements.txt
+pip install pillow
+```
+
+4. Jalankan perintah berikut pada Command Prompt untuk menjalankan aplikasinya:
+```
 python bios2025.py
 ```
 
