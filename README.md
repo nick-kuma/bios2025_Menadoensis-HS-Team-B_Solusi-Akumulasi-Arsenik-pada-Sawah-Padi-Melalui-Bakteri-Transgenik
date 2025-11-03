@@ -7,13 +7,16 @@ Aplikasi berbasis Tkinter Python untuk menampilkan riset biologi.
 - Pillow
 
 ## Cara menjalankan
-1. Pastikan semua berkas berikut ada di satu folder:
+1. Pastikan sudah menginstal Python 3.10+ dan Pillow.  
+   Jika belum punya Python, unduh dari https://www.python.org/downloads
+   
+2. Pastikan semua berkas berikut ada di satu folder:
     - bios2025.py
     - pages (sudah unzipped)
     - diagram.png
     - peta.jpg
 
-2. Jalankan perintah berikut pada Command Prompt:
+3. Jalankan perintah berikut pada Command Prompt:
 ```
 pip install -r requirements.txt
 python bios2025.py
